@@ -1,3 +1,5 @@
+_**Proof of concept. Do not use in production**_
+
 # Usage
 ## Create
 ```php
